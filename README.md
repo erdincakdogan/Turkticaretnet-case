@@ -9,7 +9,8 @@
 nodemon src/app.js is defined in npm start field.
 ```
 
- ###  -The following methods should be used in order to send a request from the Postman. <br/>
+ ###  The following methods should be used in order to send a request from the Postman. 
+ <br/>
     1-http://localhost:4040/products sending the data in your Case_Products.json file to the a path with the post method.
 <br/>
     2-http://localhost:4040/campaign define campaigns with the post method to a path.
